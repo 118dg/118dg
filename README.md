@@ -26,3 +26,6 @@ Here are some ideas to get you started: -->
 ### Solved.io
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=118dg)](https://solved.ac/118dg)
 
+
+### Memo
+https://kinetic.codes/2020/07/14/git-profile/
