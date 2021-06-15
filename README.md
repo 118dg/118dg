@@ -28,4 +28,6 @@ Here are some ideas to get you started: -->
 
 
 ### Memo
-https://shields.io/
+https://shields.io/   
+https://www.lesstif.com/gitbook/github-project-status-badge-54952153.html   
+🤩 https://zzsza.github.io/development/2020/07/10/make-github-profile-readme/   
