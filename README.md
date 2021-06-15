@@ -28,4 +28,4 @@ Here are some ideas to get you started: -->
 
 
 ### Memo
-https://kinetic.codes/2020/07/14/git-profile/
+https://shields.io/
